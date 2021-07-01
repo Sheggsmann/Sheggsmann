@@ -6,6 +6,7 @@ I am Promise Sheggsmann, a Full Stack Software Engineer specialized in web and s
 - 🌱 I’m currently learning Django and React to complete my development stack.
 - 💬 Ask me about anything related to software development and how technology solutions can help your business in general.
 - ⚡ Fun fact: You are my best friend.
+- 🤜🤛 I'm available for your projects and website development (Come let's turn that dream to a reality).
 
 ## Connect with me
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](promisesheggs@gmail.com)
