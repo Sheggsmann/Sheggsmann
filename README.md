@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Promise Sheggsmann, a Full Stack Software Engineer from Nigeria.
+I am Promise Sheggsmann, a Full Stack Software Engineer specialized in web and software development.
 
 - 🔭 I’m currently working on creating exciting projects for my portfolio and blog posts.
 - 🌱 I’m currently learning Django and React to complete my development stack.
@@ -52,15 +52,6 @@ I am Promise Sheggsmann, a Full Stack Software Engineer from Nigeria.
 <img align="left" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="left" alt="amazon aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-<br>
-<br>
-  
-## Text Editors & IDE's
-<img align="left" alt="vs code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img align="left" alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
-<img align="left" alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
 
 <br>
 <br>
