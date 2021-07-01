@@ -16,6 +16,7 @@ I am Promise Sheggsmann, a Full Stack Software Engineer from Nigeria.
 
 <br>
 <br>
+
 ## Expertise
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -36,23 +37,25 @@ I am Promise Sheggsmann, a Full Stack Software Engineer from Nigeria.
 <img align="left" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
-<br/>
-
+<br>
+<br>
 
 ## ⚡ Database 
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<br/>
-
+<br>
+<br>
+  
 ## ☁ Cloud 
 <img align="left" alt="google cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align="left" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="left" alt="amazon aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-<br/>
-
+<br>
+<br>
+  
 ## Text Editors & IDE's
 <img align="left" alt="vs code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
@@ -60,7 +63,8 @@ I am Promise Sheggsmann, a Full Stack Software Engineer from Nigeria.
 <img align="left" alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
 
 <br>
-
+<br>
+  
 ## Blog
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>](https://sheggscademy.hashnode.dev/)
 
